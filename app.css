@@ -1,0 +1,8 @@
+.newClass{
+	list-style: none;
+	color: white;
+}
+body{
+	background-image: url("laugh.jpg");
+	background-size: cover;
+}
