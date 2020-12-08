@@ -1,0 +1,8 @@
+#movies{
+	margin-top: 10px;
+}
+body{
+	background-image: url("image.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
